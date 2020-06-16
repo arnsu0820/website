@@ -138,21 +138,21 @@ The Pre-survey included the following questions:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__Figure 1.__ Group members’ perceived contributions that were summed up within teams. Helped groups claimed less than observed groups.
 
-![](/post/2020-06-17-honors-thesis-spring-2017_files/1.jpg){width=80%}
+![](https://ifh.cc/g/SWDXPn.jpg){width=60%}
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__Thoughts on Contributions.__ To examine how each individual within the group rated each other’s as well as their own contribution in percentage, I used the ANOVA test. As I had previously predicted that group members in helped groups would overclaim more than group members in observed groups, I anticipated that helpers in helped groups would overclaim more than workers. But as shown in __Figure 2__, this was not the case either. Even though helpers claimed much more (M = 29.99%, SD = 14.87) than the observers (M = 2.96%, SD = 7.05), t(97) = 11.44, p < .001, the workers in the helped groups claimed less (M = 39.12%) than the workers in the observed groups (M = 50.43%) on average, t(97) = -3.75, p < .001.Workers in observed groups thought that they each contributed 49% and 52% respectively to the total work that the group put forth, whereas the observer thought they contributed only 3%. Workers in helped groups believed that they each contributed 38% and 40% of the total work, whereas the helper thought they contributed 30%. The results suggest that the helpers assumed that they had obviously contributed more than the observer who had just stood and analyzed the group’s work. However, workers in the observed group claimed comparatively more than the workers in the helped group by distributing the contributions made primarily between the two workers in the observed condition.
 
 
 __Figure 2__. Group members’ perceived contributions on each individual. Workers in observed condition claimed that they contributed more than workers in helped condition.
 
-![](/post/2020-06-17-honors-thesis-spring-2017_files/2.jpg){width=80%}
+![](https://ifh.cc/g/FW17QJ.jpg){width=60%}
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__Actual Output.__ To examine the group’s output, I used the T-Test and simply compared descriptive statistics within groups. As my thesis is trying to find any impact that the presence of a helper would bring to a group compared to a group in an observed condition, I predicted that the helped condition would have more solutions than observed condition. In terms of the actual output that was produced in the two conditions, as shown in __Figure 3__, the helped (M = 13.52, SD = 5.26) and observed (M = 13.50, SD = 5. 00) groups each came up with exactly the same number of solutions, t(96) = -0.02, p = .984. In addition, workers in the observed group (M = 7.00 & 6.66, SD = 2.89 & 3.62) came up with more solutions than workers in the helped group (M = 5.76 & 6.30, SD = 3.25 & 2.91), ts(96 & 95)
 = 1.99 & 0.54, ps = .049 & .590, respectively. The results imply that the presence of a helper had no significant impact on the group’s outcome.
 
 __Figure 3.__ Number of solutions that each group came up with. There was no difference in the number of solutions. Workers in observed condition came up with more solutions than did the workers in helped condition.
 
-![](/post/2020-06-17-honors-thesis-spring-2017_files/3.jpg){width=80%}
+![](https://ifh.cc/g/OWOwgy.jpg){width=60%}
 
  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__Dollar Distribution.__ To examine how individuals would allocate $45 to every member according to their appropriate amount of contributions I used the ANOVA test. Based on my thesis, the observer would not receive a significantly larger amount of money compared to the helper. As shown in __Figure 4__, the helper (M = $13.29, SD = 4.80) received more money than the observer (M = $8.54, SD = 7.80), t(97) = 3.67, p < .001. Moreover, workers in the observed condition (M = $18.70 & $17.89, SD = 5.62 & 3.97) were allocated with higher amount of money than workers in the helped condition (M = $14.72 & $16.04, SD = 3.37 & 5.40), ts = 4.30 & 1.93, ps < .001 & .057, respectively. The results imply that workers believed that helpers were more qualified than observers to earn money.
@@ -160,7 +160,7 @@ __Figure 3.__ Number of solutions that each group came up with. There was no dif
 
 __Figure 4.__ Distribution of $45 according to each member’s respective contribution made by each individual. Helpers were awarded with more money than observers. Workers in observed condition were allocated with more money than workers in helped condition.
 
-![](/post/2020-06-17-honors-thesis-spring-2017_files/4.jpg){width=80%}
+![](https://ifh.cc/g/HmROuC.jpg){width=60%}
 
 ---
 
