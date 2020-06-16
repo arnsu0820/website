@@ -16,7 +16,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [params]
   # Shown in the home page
   subtitle = "Cognitive Psychologist"
-  brand = "Blackburn"
+  brand = "Blog"
   googleAnalytics = "Your Google Analytics tracking ID"
   disqus = "Your Disqus shortname"
   # CSS name for highlight.js
