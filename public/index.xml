@@ -7,87 +7,82 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>@2016. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Creating a New Theme</title>
-      <link>/post/creating-a-new-theme/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/post/creating-a-new-theme/</guid>
-      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
-We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
-    </item>
-    
-    <item>
-      <title>Migrate to Hugo from Jekyll</title>
-      <link>/post/migrate-from-jekyll/</link>
-      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/post/migrate-from-jekyll/</guid>
-      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
-▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
-▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
-    </item>
-    
-    <item>
-      <title>Hello R Markdown</title>
-      <link>/post/2015-07-23-r-rmarkdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>/post/2015-07-23-r-rmarkdown/</guid>
-      <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-You can embed an R code chunk like this:
-summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>/about/</link>
-      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/about/</guid>
-      <description>Hugo is a static site engine written in Go.
-It makes use of a variety of open source projects including:
- Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.
-Setup Some fun facts about Hugo:
- Built in Go Loosely inspired by Jekyll Primarily developed by spf13 on the train while commuting to and from Manhattan. Coded in Vim using spf13-vim  Have questions or suggestions?</description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
+      <title>CONTACT</title>
       <link>/contact/</link>
-      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 17 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>/contact/</guid>
-      <description> &amp;lt;div class=&amp;quot;pure-u-1 pure-u-md-1-3&amp;quot;&amp;gt; &amp;lt;label for=&amp;quot;last-name&amp;quot;&amp;gt;Last Name&amp;lt;/label&amp;gt; &amp;lt;input id=&amp;quot;last-name&amp;quot; class=&amp;quot;pure-u-23-24&amp;quot; type=&amp;quot;text&amp;quot;&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;div class=&amp;quot;pure-u-1 pure-u-md-1-3&amp;quot;&amp;gt; &amp;lt;label for=&amp;quot;email&amp;quot;&amp;gt;E-Mail&amp;lt;/label&amp;gt; &amp;lt;input id=&amp;quot;email&amp;quot; class=&amp;quot;pure-u-23-24&amp;quot; type=&amp;quot;email&amp;quot; required&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;div class=&amp;quot;pure-u-1 pure-u-md-1-3&amp;quot;&amp;gt; &amp;lt;label for=&amp;quot;city&amp;quot;&amp;gt;City&amp;lt;/label&amp;gt; &amp;lt;input id=&amp;quot;city&amp;quot; class=&amp;quot;pure-u-23-24&amp;quot; type=&amp;quot;text&amp;quot;&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;div class=&amp;quot;pure-u-1 pure-u-md-1-3&amp;quot;&amp;gt; &amp;lt;label for=&amp;quot;state&amp;quot;&amp;gt;State&amp;lt;/label&amp;gt; &amp;lt;select id=&amp;quot;state&amp;quot; class=&amp;quot;pure-input-1-2&amp;quot;&amp;gt; &amp;lt;option&amp;gt;AL&amp;lt;/option&amp;gt; &amp;lt;option&amp;gt;CA&amp;lt;/option&amp;gt; &amp;lt;option&amp;gt;IL&amp;lt;/option&amp;gt; &amp;lt;/select&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;fieldset class=&amp;quot;pure-group&amp;quot;&amp;gt; &amp;lt;input type=&amp;quot;text&amp;quot; class=&amp;quot;pure-input-1-2&amp;quot; placeholder=&amp;quot;A title&amp;quot;&amp;gt; &amp;lt;textarea class=&amp;quot;pure-input-1-2&amp;quot; placeholder=&amp;quot;Your message&amp;quot;&amp;gt;&amp;lt;/textarea&amp;gt; &amp;lt;/fieldset&amp;gt; &amp;lt;button type=&amp;quot;submit&amp;quot; class=&amp;quot;pure-button pure-button-primary&amp;quot;&amp;gt;Send&amp;lt;/button&amp;gt;  </description>
+      <description>Phone Number: 010-4049-8687
+Email Address: arnsu0820@gmail.com
+Lab Homepage: http://cogeng.yonsei.ac.kr/default/main/main.php</description>
     </item>
     
     <item>
-      <title>(Hu)go Template Primer</title>
-      <link>/post/goisforlovers/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <title>Effect of Comprehendible Languages and Noises when trying to Sleep</title>
+      <link>/post/2020_06-17-comprehendible-languages-and-noises/</link>
+      <pubDate>Wed, 17 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>/post/goisforlovers/</guid>
-      <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
-This document is a brief primer on using go templates.</description>
+      <guid>/post/2020_06-17-comprehendible-languages-and-noises/</guid>
+      <description>Effect of Comprehendible Languages and Noises when trying to Sleep
+Aaron Su
+GSI: Megan E. Norr
+Instructor: Arman Catterson
+Introduction Why do we feel angry with our roommates when they are listening to something on their phones when we are trying to sleep? The ability to comprehend languages in media like songs, lullabies, and comedy would prevent one from being able to go to sleep.</description>
     </item>
     
     <item>
-      <title>Getting Started with Hugo</title>
-      <link>/post/hugoisforlovers/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <title>Honors Thesis (Spring 2017)</title>
+      <link>/post/2020-06-17-honors-thesis-spring-2017/</link>
+      <pubDate>Wed, 17 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>/post/hugoisforlovers/</guid>
-      <description>Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
-Save it somewhere specific as we will be using it in the next step.
-More complete instructions are available at installing hugo
-Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
-Follow the following steps:
- Clone the hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313  Corresponding pseudo commands:</description>
+      <guid>/post/2020-06-17-honors-thesis-spring-2017/</guid>
+      <description>“Do Ambiguous Feelings Lead to Overclaiming Credit in Group Tasks?”
+by Aaron Su
+A thesis submitted in satisfactionOf the Honors Program option in pursuit of the
+Bachelor of Arts inPsychology in theCOLLEGE OF LETTERS AND SCIENCE
+of the
+UNIVERITY OF CALIFORNIA, BERKELEY
+Faculty sponsor in charge: Professor Juliana Schroeder
+April 2017
+Abstract Groups often exhibit “overclaiming,” wherein members’ perceived contributions to a group task add up to be more than the logically allowable total of 100% of work accomplished.</description>
+    </item>
+    
+    <item>
+      <title>RESUME</title>
+      <link>/about/</link>
+      <pubDate>Wed, 17 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>EDUCATION Yonsei University Seo Dae-Mun Gu, South Korea Graduate Student Masters of Arts, Cognitive Engineering Psychology, July 2019 – Present  Designing and conducting research to extend study potential for human-interaction psychology  Yonsei University Seo Dae-Mun Gu, South Korea Graduate Student Masters of Arts, Clinical Psychology, March 2019 – July 2019  Conducted interviews in Yonsei university to analyze the result of an application for cancer patients (HARU)  http://haruasd.</description>
+    </item>
+    
+    <item>
+      <title>강박장애 치료에 관한 최근 연구동향 리뷰</title>
+      <link>/post/2020_06-17-%EC%A0%95%EC%8B%A0%EB%B3%91%EB%A6%AC%ED%95%99/</link>
+      <pubDate>Wed, 17 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020_06-17-%EC%A0%95%EC%8B%A0%EB%B3%91%EB%A6%AC%ED%95%99/</guid>
+      <description>강박장애 치료에 관한 최근 연구동향 리뷰
+서 아 론
+연세대학교 심리학과
+초록 강박장애 치료에 관한 효과적인 치료방법들이 무수히 존재하고 이따금씩 메타분석이 이루어지고 있지만, 국내와 국외의 최근 연구동향들을 통합하여 문헌 고찰한 연구의 수는 제한된 수준이다. 본 연구는 2010년을 기준으로 2019년까지 게재된 논문 중 강박장애에 관한 치료를 중심으로 최근 리뷰 및 메타분석 문헌들을 체계적으로 고찰하고자 실시되었다. 국외 논문들은 ‘Google Scholar’, ‘ProQuest’, Pubmed’, 그리고 ’Scorpus’에서 검색되었으며, 국내 논문들은 ’Google Scholar’와 ’RISS’에서 검색되었다.</description>
+    </item>
+    
+    <item>
+      <title>빈도수 조작으로 인한 개념변화 논문 리뷰</title>
+      <link>/post/2020_06-17-%EB%B9%88%EB%8F%84%EC%88%98/</link>
+      <pubDate>Wed, 17 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020_06-17-%EB%B9%88%EB%8F%84%EC%88%98/</guid>
+      <description>Prevalence_induced concept change in human judgement
+Levari et. al. (2018)
+ Levari et al.(2018)은 단지 빈도수를 조작함으로써 선입관이 변형(creep)될 수 있다는 점을 확인하였습니다. 구체적으로는, 첫번째부터 다섯번째 실험까지 시각적인 자극들을 (파랑색부터 보라색까지 넓은 스펙트럼의 색깔들) 사용하여 파랑 혹은 보라색 둘 중 하나로 분류하였는데, 특정 색깔의 빈도수를 조작했을 때 판단하기 애매한 색깔들을 어떻게 분류하는지 알아보았습니다. 그 결과, 색깔의 빈도수를 줄이면 판단하기 애매한 색깔들을 보았을 때, 줄어든 빈도수의 색깔로 오인하는 것으로 나타났습니다.</description>
     </item>
     
   </channel>

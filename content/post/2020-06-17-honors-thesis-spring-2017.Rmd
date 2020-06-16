@@ -1,0 +1,232 @@
+---
+title: Honors Thesis (Spring 2017)
+author: 'AARON SU'
+date: '2020-06-17'
+
+---
+
+<center>
+<font size="4">__"Do Ambiguous Feelings Lead to Overclaiming Credit in Group Tasks?"__</font> 
+
+
+
+
+
+
+
+
+by _Aaron Su_
+
+A thesis submitted in satisfaction
+Of the Honors Program option in pursuit of the
+
+
+Bachelor of Arts in
+Psychology in the
+COLLEGE OF LETTERS AND SCIENCE
+
+of the
+
+__UNIVERITY OF CALIFORNIA, BERKELEY__
+
+
+
+Faculty sponsor in charge: Professor _Juliana Schroeder_
+
+__April 2017__
+
+</center>
+
+---
+  
+  
+    
+    
+  
+<center>__Abstract__</center>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Groups often exhibit “overclaiming,” wherein members’ perceived contributions to a group task add up to be more than the logically allowable total of 100% of work accomplished. One reason for this overclaiming is that, in addition to relying on their objective output to determine how much they contributed (e.g., number of products created), people also egocentrically rely on how much they feel like they did (e.g., amount of effort). We hypothesized that when a person’s objective output is more ambiguous, he/she will be particularly likely to rely on egocentric information to determine his/her contribution to the group, which will increase overclaiming. To test this prediction, we assigned participants into 3 person teams doing a brainstorming task. We assigned teams to one of two conditions (between groups): helped vs. observed teams. Helped teams had one indirect contributor (e.g., manager) with two direct contributors (e.g., workers). The indirect contributor was instructed to play a managerial role in the helped teams. Observed teams had an observer with two direct contributors (e.g., workers). The observer was simply instructed to observe in observed teams. We predicted that, because indirect contributions are more ambiguous, helped teams would overclaim more than observed teams. However the results showed that observed teams had an overall higher percentage of work claimed than helped teams. This suggests that individuals did not rely more heavily on egocentric information to determine their contribution to a group when their objective output was more ambiguous, which did not support our prediction for this study.
+
+
+---
+
+
+<center>__Introduction__</center>
+
+“_Most of us are consumed with our own thoughts and desires and are not always thinking about what other people may want. This is not necessarily being egocentric; it is just being human_” – Bo Bennett (2004)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As demonstrated in Bennett’s wise saying, to be human is to be egocentric. The concept of egocentrism was first addressed by Sigmund Freud in psychoanalytic theory of personality, the primary process which involves forming a mental image of a desired object in order to satisfy the need for that specific object. He states that this idea is the most basic and primitive part of personality that is present from birth, so the primary process is referred to as a primary part of personality because it is believed to come first (Freud, 1913).
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Then Jean Piaget, taking over Freud’s theory, proposed that the human is born with spontaneous desires. Piaget finds that cognitive development from infancy to adolescence (sensory-motor, preoperational, concrete operational, and formal operational) begins with elementary sensory experiences and unfolds gradually until the individual is capable of dealing with abstract thoughts (Piaget, 1926). According to Piaget, the preoperational child is pre-logical. Preoperational child does not take into account more than one dimension at a time. Piaget called this egocentrism, which literally means, self-centered-ness. However, when a child is in the concrete operational age (ages seven to eleven), he acquires ability to organize ideas and think logically. But still, his thoughts are limited to the concrete world (Piaget, 1954). One research finding suggests that the growth of cognitive abilities is rapid between birth and age sixteen, and then levels off (Bayley, 1949).
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Piaget discovered that children in a formal operational stage understand the concept of mutual agreement within a group. They start to consider about the notion of equality and fairness among people, analyzing the motive behind the actions of people and judging them
+accordingly (Piaget, 1965).
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Although a person acquires fundamental abilities of making moral judgements about lying, cheating, adult authority, punishment, and responsibility as he or she grows, interestingly adults are still susceptible to being egocentric (Tesch, Whitbourne & Nehrke, 1978). Frankenberger tested adolescents and adults on their levels of egocentrism and found that egocentric behaviors were observed in both early adulthood and in middle adult years (Frankenberger, 2000). Although adults have fully developed intellectual abilities, they are also egocentric, often without realizing it.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As one example of egocentrism, when adults are told to join a group and perform a group task, they tend to over-rate their own contributions to the output by claiming that they did more work than they actually did (“overclaiming”). In one experiment (Schlenker, 1977), when the group succeeded in solving a problem, participants (majority)—who supported the decision of the group—rated their personal performance and personal responsibility for the group’s output higher than those (minority)—who dissented from the decision of the group— did. On the other hand, when the group failed, the majority took as little responsibility as the minority. The majority of participants in failing groups defensively accredited to themselves less responsibility for the group’s poor performance than they did to the poorest-performing group members. The result of this study supports that self-serving bias, which is one form of egocentrism, exists. Following this research, more studies have been done to show which variables influence how people make egocentric judgments about themselves and others.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In another classic experiment, married couples each overclaimed how much of the housework they completed (Ross, 1979). Furthermore, as the size of the group increased, it was harder to realize how to afford credit to appropriately acknowledge others’ contributions. When evaluating responsibility between a married couple, there is only one person to consider, viz., one’s spouse. However, as the group grows larger, e.g., a family of five, there are four additional people to consider. Each family member would be aware of their own contributions while being ignorant toward others’ contributions. The study demonstrated that self-overrating was more present in a larger group, such as a family of five, than in a smaller group, such as a married couple (Ross, 1979).
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Other studies have shown that as a person’s focus on others’ contributions increases, their tendency to over-claim for themselves deteriorates (Burger, 1983). Therefore, focusing more on others’ contributions diminished overrating of one’s own contributions (Caruso, 2006; Savitsky, 2005). Furthermore, considering others’ mental states and perspectives is not a natural process, but rather requires motivation and effort (Apperly, 2006; Epley, 2010).
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;These studies provide empirical evidence that the claims of responsibility within a group routinely add up to more than the logically allowable 100% (i.e., “overclaiming”). People focus on and appraise their own contributions more than they should, which is a symptom of egocentrism. One set of studies show that overclaiming increases with the size of the group because acknowledging other group members’ contributions becomes worse as the group size increases. Schroeder et al. (2016) concluded that members of larger groups tend to rely more on their egocentric assessments of contribution to inform relative responsibility allocations, and also tend to be less accurate in their allocations.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Extending from these prior studies, in the current paper we examine another potential cause of egocentric overclaiming in groups. One reason for overclaiming that has not been studied in prior work is that, in addition to relying on their objective output to determine how much they contributed (e.g., number of products created), people also egocentrically rely on how much they feel like they did (e.g., amount of effort). We propose that when a person’s objective output is more ambiguous, he/she will be particularly likely to rely on his/her feelings to determine his/her contribution to the group, which will increase overclaiming.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Work output is more ambiguous among indirect contributors in groups (e.g., managers, teachers, and coaches), who influence group output only indirectly through offering strategies or supervision, than direct contributors (e.g., workers) do, who influence group output directly. Therefore, I predict that groups with indirect contributors (e.g., a manager and two workers) will overclaim more than groups with two direct contributors (e.g., two workers) and no contributor (e.g., an observer) because the indirect contributors rely more on their feeling when claiming credit for the group output; and this feeling is not apparent to direct contributors.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I tested my hypothesis by running an experiment with two conditions between groups: helped vs. observed teams. Helped teams included one indirect contributor (helper) and two direct contributors (workers) whereas observed teams included one person who did not contribute at all (observer) and two direct contributors (workers). I expect that direct contributors (workers) would think that they have contributed more to the outcome than the helper, whereas the helper would believe that his or her presence contributed the most to the result due to ambiguity happened by indirectly contributing to the group’s output. I explore the consequences of egocentric bias in groups for overclaiming credit on tasks.
+
+---
+
+<center>__Method__</center>
+
+__Participants.__
+I aimed to collect 50 teams per condition (100 teams total, with three people per team for a total of 300 individuals). I successfully collected a total of 297 adults from UC Berkeley (males = 130 [44%], females = 166 [56%], Mage = 21.5, SD = 4.52, range
+= 18-60).
+
+__Design.__
+The experiment included two conditions between-groups: helped vs. observed teams. Helped teams included one helper (Role C) and two workers (Role A & Role B) whereas observed teams included one observer (Role C) and two workers (Role A & Role B).
+
+__Procedure.__
+Each participant picked a role (Role A, Role B, or Role C) out of a hat. We explained the competition to the group: “Today the three of you are on a team. You will be competing against other teams in this study. Your task is to brainstorm as many benefits and costs of having an extra thumb as possible in 3 minutes.” We described the incentives: The team that comes up with the most creative and unique list will be emailed $15 Amazon gift cards for each group member. We will ask an external set of judges to judge the creativity of each benefit and cost they come up with. With their permission, we will also be videotaping them as they work, for research purposes only.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We provided the following rules of the competition to the participants:
+
+1) Workers have three minutes total to come up with as many benefits & costs for having an extra thumb,
+2) Role A must sit at the opposite side of Role B and have his/her own paper to write down the list with a blue pen,
+3) Role B must sit at the opposite side of Role A and have his/her own paper to write down the list with a black pen.
+ 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To ensure comprehension, one of the team members verbally summarized the rules of the game to the experimenter. Then we gave the following instructions to the helper or observer:
+
+>Role C, your job is to analyze Roles A & B and help them work as quickly as possible. That is why you will be standing during the competition today. You need to determine a strategy to make your team perform at best. For example, you might decide that the group should brainstorm out loud and you would write suggestions on this poster. Can you think of another strategy that you could use? [Let Helper brainstorm for a few seconds.] If they cannot think of anything, you can suggest: “You could also have A & B separately brainstorm without talking on their own paper in front of them.” In addition to coming up with a strategy for your team, you also need to keep up the team morale. For example, you could shout, ‘Great idea!’ Or you could say “Only 1 minute left!”
+
+
+>Role C, your job is to analyze Roles A & B and observe them as they work. That is why you will be standing during the competition today. You need to simply watch and analyze their work process. Think about how the team could perform its best. Think carefully about how your team’s motivation and team morale changes over the 3 minutes.
+
+
+>Next, all teams had to complete a short online pre-survey before the competition.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The competition lasted three minutes. Finally, each team member was separated by dividers and received a post-survey to complete.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;While team members completed their surveys, researchers counted and recorded the total number of benefits & costs. After the survey completion, we debriefed participants.
+ 
+__Materials.__
+The Pre-survey included the following questions:
+
+1)	Please take some time right now to strategize how you can do your job to the best of your ability today. How can you help your team the most? [Blank area so that the participant can write down any strategy.]
+2)	Overall, how much do you think each person on the team will contribute to the team's performance during the competition? [Asked each individual to rate how each person will contribute to the performance (0=No contribution; 7=Very high contribution)].
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For the competition task, we started the camera first, set a timer for 3 minutes on a laptop screen, then started the competition. After the competition, we asked participants to complete the short post-survey online:
+
+1)	Overall, how much do you think each person on the team contributed to the team's performance? [Asked each individual to rate how each person will contribute to the performance (0=No contribution; 7=Very high contribution)].
+2)	Please think about the total amount of work that your team just did. What percentage of this work do you think you were personally responsible for? 0% means that you contributed nothing to the team’s output, and 100% means that you contributed everything to the team’s output. What percentage of the team’s output were YOU personally responsible for? (Write a number from 0 to 100 below.)
+3)	About how many costs and benefits do you think your team brainstormed, total? (Write the number in the box below.)
+4)	Imagine that you, had not been on the team. Only others were on the team. How many costs and benefits do you think this team (without you) would have brainstormed, total? (Write the number in the box below.)
+ 
+5)	Imagine you have the chance to allocate the total $45 to pay each person what they actually deserve for the amount of work they did. How would you allocate $45 to each player? Put a number between 0 and 45 in each box below. (The three boxes must add to 45 total.)
+6)	Overall, how satisfied do you feel about your team today? Overall, how satisfied do you feel with your team’s brainstorming performance today? If you had the chance, would you want to work with this team again? (1=Not at all satisfied; 7=Very satisfied)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;After participants completed the online survey, we debriefed them about the study, then paid them $15 Amazon gift cards.
+
+---
+
+<center>__Results__</center>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__Percent Contributions Claimed by Teams.__ I hypothesized that group members in helped groups would overclaim more than group members in the observed groups, when they were told to complete a brainstorming task all together and to come up with as many pros and cons of having an extra thumb. I used a T-Test to test whether there was a significant difference in contribution that each group claimed they made. As shown in __Figure 1__, the helped groups (M = 103.81%, SD = 20.84%) claimed less than the observed groups (M = 108.23%, SD = 22.28%), t(97) = 1.02, p = 0.312, which was not statistically significant. When group members' perceived contributions were summed up within each team, the observed teams had a higher percentage of work claimed overall than the helped teams. Therefore, the result suggests that individuals did not necessarily rely more heavily on egocentric information to determine their contribution to a group when their objective output was more ambiguous.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__Figure 1.__ Group members’ perceived contributions that were summed up within teams. Helped groups claimed less than observed groups.
+
+![](/post/2020-06-17-honors-thesis-spring-2017_files/1.jpg){width=80%}
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__Thoughts on Contributions.__ To examine how each individual within the group rated each other’s as well as their own contribution in percentage, I used the ANOVA test. As I had previously predicted that group members in helped groups would overclaim more than group members in observed groups, I anticipated that helpers in helped groups would overclaim more than workers. But as shown in __Figure 2__, this was not the case either. Even though helpers claimed much more (M = 29.99%, SD = 14.87) than the observers (M = 2.96%, SD = 7.05), t(97) = 11.44, p < .001, the workers in the helped groups claimed less (M = 39.12%) than the workers in the observed groups (M = 50.43%) on average, t(97) = -3.75, p < .001.Workers in observed groups thought that they each contributed 49% and 52% respectively to the total work that the group put forth, whereas the observer thought they contributed only 3%. Workers in helped groups believed that they each contributed 38% and 40% of the total work, whereas the helper thought they contributed 30%. The results suggest that the helpers assumed that they had obviously contributed more than the observer who had just stood and analyzed the group’s work. However, workers in the observed group claimed comparatively more than the workers in the helped group by distributing the contributions made primarily between the two workers in the observed condition.
+
+
+__Figure 2__. Group members’ perceived contributions on each individual. Workers in observed condition claimed that they contributed more than workers in helped condition.
+
+![](/post/2020-06-17-honors-thesis-spring-2017_files/2.jpg){width=80%}
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__Actual Output.__ To examine the group’s output, I used the T-Test and simply compared descriptive statistics within groups. As my thesis is trying to find any impact that the presence of a helper would bring to a group compared to a group in an observed condition, I predicted that the helped condition would have more solutions than observed condition. In terms of the actual output that was produced in the two conditions, as shown in __Figure 3__, the helped (M = 13.52, SD = 5.26) and observed (M = 13.50, SD = 5. 00) groups each came up with exactly the same number of solutions, t(96) = -0.02, p = .984. In addition, workers in the observed group (M = 7.00 & 6.66, SD = 2.89 & 3.62) came up with more solutions than workers in the helped group (M = 5.76 & 6.30, SD = 3.25 & 2.91), ts(96 & 95)
+= 1.99 & 0.54, ps = .049 & .590, respectively. The results imply that the presence of a helper had no significant impact on the group’s outcome.
+
+__Figure 3.__ Number of solutions that each group came up with. There was no difference in the number of solutions. Workers in observed condition came up with more solutions than did the workers in helped condition.
+
+![](/post/2020-06-17-honors-thesis-spring-2017_files/3.jpg){width=80%}
+
+ 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__Dollar Distribution.__ To examine how individuals would allocate $45 to every member according to their appropriate amount of contributions I used the ANOVA test. Based on my thesis, the observer would not receive a significantly larger amount of money compared to the helper. As shown in __Figure 4__, the helper (M = $13.29, SD = 4.80) received more money than the observer (M = $8.54, SD = 7.80), t(97) = 3.67, p < .001. Moreover, workers in the observed condition (M = $18.70 & $17.89, SD = 5.62 & 3.97) were allocated with higher amount of money than workers in the helped condition (M = $14.72 & $16.04, SD = 3.37 & 5.40), ts = 4.30 & 1.93, ps < .001 & .057, respectively. The results imply that workers believed that helpers were more qualified than observers to earn money.
+
+
+__Figure 4.__ Distribution of $45 according to each member’s respective contribution made by each individual. Helpers were awarded with more money than observers. Workers in observed condition were allocated with more money than workers in helped condition.
+
+![](/post/2020-06-17-honors-thesis-spring-2017_files/4.jpg){width=80%}
+
+---
+
+<center>__General Discussion__</center>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Past research has shown that overclaiming within a group is characterized by egocentric behavior and increases with group size (Apperly, 2006; Caruso, 2006; Epley, 2010; Frankenberger, 2000; Ross, 1979; Savitsky, 2005; Schlenker, 1977; Schroeder, 2016; Tesch, Whitbourne & Nehrke, 1978). In my thesis, I predicted that when a person’s objective output is more ambiguous, he/she will be particularly likely to rely on egocentric information to determine his/her contribution to the group, which will increase overclaiming. I used data analysis and decided to use four figures that would aid me in finding any significant result in support of my hypothesis.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;First of all, I used group member’s perceived contributions (in percentage) that were summed up within groups to examine if helped groups overclaimed more than group members in observed groups. According to my hypothesis, helped groups would overclaim more than observed groups. But it was not the case and not significant. Therefore, I concluded that individuals did not necessarily rely more heavily on egocentric information to determine their contribution to a group when their objective output was more ambiguous. My assumption was that when there were two workers with one indirect contributor in the helped condition, group members assumed that the indirect contributor were one of them, even though the helper was not directly contributing to the outcome.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The helper’s role of structuring strategies and proposing suggestions to the other two workers might have triggered some variance in the claimed amount of contributions made. All the group members may have guessed that the helper is serving as an unofficial manager. In this case, the presence of the helper, or the secretive manager, might have burdened the two workers and caused psychological distress because they were instructed to come up with as many pros and cons of having an extra thumb as they could. The scenario where the team was given a task with one of the teammates implicitly and indirectly leading and pushing the team to complete the task may have created some pressure for the rest of the team. If the team was unable to come up with satisfactory solutions, then all the blame could have been placed on the two workers, not the helper, for poor execution. The helper could claim that he/she did his/her best and fulfilled his/her responsibility by strategizing and providing guidance. Since his/her role was simply to give advice instead of actually carrying out the tasks, he/she could feel free from the burden of meeting the goals. However, since the other two workers in the helped condition were charged with the task of writing down solutions on the paper, they may have been more psychologically stressed out than the helper.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The phenomenon where all the blames are directed towards the workers while the helper urges them resembles current society, where managers often push their workers to produce more and better results. This psychological stress of having someone in charge might have caused the two workers to become extra sensitive and careful, underestimating their own contributions rather than risking overclaiming their outputs. Hence, I looked at the data which demonstrated the amount of contributions made by each individual within the group.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The result in __Thoughts on Contributions__ revealed that workers in the helped groups claimed less than the workers in the observed groups, which supports my arguments in previous paragraphs. As workers in the helped condition acknowledged the helper as one who contributed to the outcome as well, they thought highly of the helper’s presence, rating their contributions relatively equally, resulting in 38% and 40% on average for the two workers and 30% for the helper. On the other hand, in the observed condition, because literally two workers were working by themselves without the help of the observer, they distributed the contributions into half, each claiming around 49% and 52%. As the observer had merely stood over the workers and watched the group’s work, neither of the group members allocated much credit to the observer, rating their own contributions much higher than that of the observer’s limited role. These results show that even though there was a third person, whether it be the helper or the observer, in both of these two different conditions, the allocation of contributions varied significantly depending on the third member’s task. The role of the group member, rather than the presence of the indirect contributor or the observer, seems to have much impact on the assumed contributions made. Therefore, I checked on another dataset, __Actual Output__, which recorded the number of solutions each group came up with.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I needed to examine this dataset, because the two other datasets that I discussed previously __(Percent Contributions Claimed by Teams__ and __Thoughts on Contributions__) are all based on members’ feelings. None of these data was hard facts. However, __Actual Output__ contains actual number of solutions the groups reached. Whereas prejudice and bias can interfere with data interpretation when human feelings are involved, the number of solutions made present solid evidence to the impact that the presence of a helper or an observer has on a group’s output. As my analysis shows, data indicates that both the helped and observed groups came up with exactly the same number of solutions. This implies that despite the presence of the helper in the helped condition, in which group members assumed that the helper somewhat contributed to the group’s output, his/her presence did not have a significant impact. As the group’s outputs may remain the same with or without the third person in the group, this suggests that the presence of the helper may not be critical. In addition, the fact that two workers in the observed conditions came up with exactly the same number of solutions as the helped group did opens up the possibility that the members of the helped group may have been tried to be a free rider, fallen victim to idleness, and therefore experienced reduced productivity since they had more people in their group.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;According to social loafing theory (Ringelmann, 1913), people tend to exert less effort to achieve a goal when they work in a group than when they work alone. In experiments, as the group size and dispersion grew, members were found to contribute less in both quantity and quality (Chidambaram & Tung, 2005). This phenomenon seems to take place in the case of Actual output. Having a helper in the group appears to have increased idleness among people, hindering each person from maximizing his/her full potential. Therefore, this dataset suggests that the presence of the helper did not improve the performance of the group members due to social loafing.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Since rating contributions in terms of simple percentages is only theoretical and ideological, I further examined the allotment of $45 to each group member, which could provide a more concrete perspective in determining how one views his own and others’ contributions. However, according to Dollar Distribution, there was no meaningful discrepancy in the percentage of contribution allocated and the dollar amount of pay compensated. As workers in the observed condition appeared to have contributed the most, they received the most. Then workers in the helped condition received the second highest amount, followed by the helper and the observer in descending order. It appears that compensation was determined based on the assumed contribution that each individual made, and this was in line with the percentage of work each member allocated to his/her group.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__Limitations__. One limitation of my study is that the participants did not have enough time to get close to each other. The lack of connection among group members and team spirit may have negatively impacted the number of solutions that groups came up with. Since participants did not have the time to get to know each other, when they were told to strategize, analyze, and come up with ideas, the members could have felt nervous, shy, and uncomfortable to display their ideas and talents. If they had known each other already or felt at ease with the team, then their mood could have been more harmonious and relaxed, leading to a more successful brainstorming session. Moreover, the limitation of this study is that the participant pool consisted only of students and faculty members at UC Berkeley. This sample population could share similar norms due to the fact that they all are exposed to the same community. The proportions of work credited to each member could have been different if the same research had been conducted at other universities. Since UC Berkeley is renowned for competitiveness, participants might not have appraised the other member’s contributions fairly and objectively. Fear of appearing less competent or pride in admitting others’ excellence could have influenced the mindset of a participant when he/she was told to rate contributions.
+
+---
+
+<center>__Conclusion__</center>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Results suggest that individuals did not rely more heavily on egocentric information to determine their contribution to a group when their objective output was more ambiguous, therefore voiding my prediction. The helper in the helped condition was predicted to overclaim his contribution due to his reliance on egocentric information, but he/she did not take extra credit. Instead, workers in the observed condition took more of the credit, leading to a sum that exceeded 100%. This research found that despite the presence of a helper in a group, the group’s output remained the same as that of the group in the observed condition, implying that having the helper in the group did not an influence on the team.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For the future research, I would like to provide participants with more time to get to know each other and see whether this makes any significant difference when they rate the contributions of each other. The connected feeling and comfortable mood might increase the solutions that groups come up with. Secondly, I would like to conduct this study with a different demographic, sampling people of various cultural, ethnic, educational, and socioeconomic backgrounds. Different norms, values, and perspectives of people might bring out different results to contribution allocation ratios. Lastly, since the results suggest that participants in helped condition did not overclaim contributions, I would like to throw a related research question: Does having a helper in the group influence the group’s output? Since my dataset demonstrates that the presence of the helper did not contribute much to the outcome, I want to delve into this question and investigate further into the impact of perceived help and supervision as well as loafing phenomenon.
+
+---
+
+<center>__References__</center>
+
+Apperly, I. A., Riggs, K. J., Simpson, A., Chiavarino, C., & Samson, D. (2006). Is belief reasoning automatic? Psychological Science, 17, 841– 844. Retrieved from http://dx.doi.org/10.1111/j.1467-9280.2006.01791.x
+
+Bayley, N. (1949). Consistency and variability in the growth of intelligence from birth to eighteen years. The Journal of Genetic Psychology, 75, 165-196
+
+Burger, J. M., & Rodman, J. L. (1983). Attributions of responsibility for group tasks: The egocentric bias and the actor-observer difference. Journal of Personality and Social Psychology, 45, 1232–1242. Retrieved from http://dx.doi.org/10.1037/0022-3514.45.6.1232
+
+Caruso, E., Epley, N., & Bazerman, M. H. (2006). The costs and benefits of undoing egocentric responsibility assessments in groups. Journal of Personality and Social Psychology, 91, 857– 871. Retrieved from http://dx.doi.org/10.1037/0022-3514.91.5.857
+
+Chidambaram, Laku; Tung, Lai Lai (2005). "Is Out of Sight, Out of Mind? An Empirical Study of Social Loafing in Technology-Supported Groups". Information Systems Research, 16 (2): 149–168. doi:10.1287/isre.1050.0051
+
+Epley, N., Keysar, B., Van Boven, L., & Gilovich, T. (2004). Perspective taking as egocentric anchoring and adjustment. Journal of Personality and Social Psychology, 87, 327–339. Retrieved from http://dx.doi.org/10.1037/0022-3514.87.3.327
+
+Frankenberger K. D. (2000). "Adolescent egocentrism: A comparison among adolescents and adults". Journal of Adolescence. 23 (3): 343–354. doi:10.1006/jado.2000.0319
+ 
+Freud, S., Brill, A. A., Crick, J., & Robertson, R. (1913). The psychology of the dream activities. The interpretation of dreams (pp. 403-493). Oxford University Press.
+
+Piaget, J. (1954). Chapter xiii. The construction of reality in the child (pp. 386). New York: Basic Books.
+
+Piaget, J. (1965). The moral judgment of the child (pp. 410). Free Press.
+
+Piaget, J. (1926). Chapter xxiii. The language and thought of the child (pp. 246). USA: Harcourt, Brace & Company Inc.
+
+Ringelmann, M. (1913). "Recherches sur les moteurs animés: Travail de l'homme" [Research on animate sources of power: The work of man]. Annales de l'Institut National Agronomique (2nd ed., Vol. 12, pp. 1-40). Paris, France: Bibliothèque Nationale de France.
+
+Ross, M., & Sicoly, F. (1979). Egocentric biases in availability and attribution. Journal of Personality and Social Psychology, 37, 322–336. Retrieved from http://dx.doi.org/10.1037/0022-3514.37.3.322
+
+Savitsky, K., Van Boven, L., Epley, N., & Wight, W. (2005). The unpacking effect in allocations of responsibility for group tasks. Journal of Experimental Social Psychology, 41, 447– 457. Retrieved from
+http://dx.doi.org/10.1016/j.jesp.2004.08.008
+
+Schlenker, B. R., Miller, R. S. (1977). “Egocentrism in groups: Self-serving biases or logical information processing?" Journal of Personality and Social Psychology, 35 (10): 755–764. doi:10.1037/0022-3514.35.10.755
+
+Schroeder, J., Caruso, E. M., & Epley, N. (2016). Many Hands Make Overlooked Work: Over-Claiming of Responsibility Increases With Group Size. Journal of Experimental Psychology: Applied. Advance online publication. Retrieved from http://dx.doi.org/10.1037/xap0000080
+
+Tesch, S., Whitbourne, S. K., & Nehrke, M. F. (1978). "Cognitive egocentrism in institutionalized adult". Journal of Gerontology, 33 (4): 546–552.

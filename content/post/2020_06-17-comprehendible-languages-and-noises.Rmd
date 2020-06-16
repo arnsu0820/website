@@ -1,0 +1,242 @@
+---
+title: Effect of Comprehendible Languages and Noises when trying to Sleep
+author: 'AARON SU'
+date: '2020-06-17'
+
+---
+
+<center><font size="4">__Effect of Comprehendible Languages and Noises when trying to Sleep__</font> 
+
+
+Aaron Su
+
+
+GSI: _Megan E. Norr_
+
+
+Instructor: _Arman Catterson_
+
+
+
+
+
+
+</center>
+
+---
+
+<center>__Introduction__</center>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Why do we feel angry with our roommates when they are listening to something on their phones when we are trying to sleep? The ability to comprehend languages in media like songs, lullabies, and comedy would prevent one from being able to go to sleep.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;When we go to sleep, it is impossible for people to immediately shut down all of our sensory systems which is essential for well-being and safety. Among five of senses, hearing is one of them, and this is the ability to perceive sound by detecting vibrations, changes in the pressure of the surrounding medium through time, through an organ such as the ear. The research has discovered that uninterrupted sleep is needed to maintain good physiologic and mental functioning in healthy individuals. Because environmental noise is one of the major cause of disturbed sleep, lots of researches has been done over this topic. The primary sleep disturbances include difficulty falling asleep. Noise during sleep causes increased blood pressure, increased in heart rate, increased pulse amplitude, increased pulse amplitude, vasoconstriction, changes in respiration, cardiac arrhythmias, and increased body movement. The after effects measured the following day include fatigue, depressed mood and well-being, and decreased performance. Long-term psychosocial effects have been related to nocturnal noise which vulnerably have potential of generating physical or mental disorders. (Lisa Goines; Louis Hagler et al., 2007).
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Many research are done over to understand and to reduce the effect of noise when trying to sleep. The impact of night-time aircraft noise on airport neighborhood the quality of sleep, associating with cardiovascular disease and stroke in the elderly (Ken Hume et al., 2010). The effect of noise over people are also appeared to have somewhat differences between two genders, male and female. The significant gender-exposure interaction was found only for acute self-reported well-being, for which a stronger association was observed for women than for men. Although sleep quality in the highest annoyance category tended to be decreased in women, but not in men, whereas sleep duration in the highest annoyance category tended to be decreased in men, but not in women (Roosli Martin; Mohler Evelyn; Frei Patrizia; Vienneau Dannille et al., 2014).
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;So, another attempt was made to improve a quality of sleep by playing music, investigating over 557 participants who had sleep disorders. The experiment concluded that a sleep quality was improved in acute and chronic sleep disorders. Interestingly, music showed a cumulative dose effect and a follow-up duration more than three weeks were essential to assess to its efficacy (Chun-Fang Wang; Ying-Li Sun; Hong-Xin Zang et al.,2012). However, Another research was done, which was very similar to the previous research. It was done over young, normal sleepers, and revealed that music listening has no positive or negative effects on sleep quality of young normal sleepers. Recent studies showed that relaxing classical music is an effective intervention to reduce sleep problems. The participants listened to relaxing classical music at bedtime for three weeks for 45 minutes. The research concluded that no adverse or side effects are accompanied with the previously reported benefits of this music listening intervention (Koenig, J.; Jarczok, M.N.;Warth, M.; Harmat, L.; Hesse, N.; Jespersen, K.V.; Thayer, J.F.; Hillecke, T.K. et al., 2013).
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Looking at these two latest researches, it was obvious to find out that there was difference between normal people verses people with sleep disorders. The next research sought to find out the association between physical activity and sleep in adults. The result was depend much upon age. Physical activity was lower in healthy adults aged twenty to thirty nine and over sixty, reporting more daytime sleepiness. This experiment tried to find out if tiredness have anything to do with sleepiness. Interestingly, the healthier the person is, the more they felt sleepiness (McClain, James J.; Lewin, Daniel S.; Laposky, Aaron D.; Kahle, Lisa; Berrigan, David et al., 2014).
+	
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;With reliable research results, the author reasoned that the effect of comprehendible languages and noises will prevent a person from going to sleep easily. If the author’s theory is incorrect, then we would expect to see that there is no significant effect of any type of sound that is heard through ears. The findings do not support the author’s hypothesis.
+
+•H0: There is no relationship between the noise and time spent before going to sleep.  
+•Hα: There is a relationship between the noise and time spent before going to sleep: the person who is interfered with music will have longer time spent than those who listen to nothing before going to sleep.
+
+---
+
+<center>__Method__</center>
+
+__Participants__
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Total of 34 participants are involved within my experiment. Since the experiment needed much hours to dedicate to actually get a result, there were difficulties of gathering lot of participants. Due to this, experimenter asked fellows who lived nearby, like as roommates, friends, and church fellows to participate with rewarding and treating them with desserts and dinner. Total of 20 men and 14 women have participated in my experiment. (AGO, ADX, and Church), and their age differences ranges from 20-57, with having a mean of 26.41 age range.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Since the experimenter lives in the fraternity, AGO (Alpha Gamma Omega), a Christian male fraternity, there were a diversity of races within the participants: American, Italian, Mexican, Brazilian, Korean, Chinese, Croatian, Arabian, New Zealander, and Jordanian. These participants were all biologically considered to be male. Among total of 34 participants, 14 of them are from AGO, their age ranged from 20 to 28 old, and the mean of this age range was 23.07.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The rest of males, 6 participants out of total of 20 men are from my own church, which is located in San Ramon, a Church of the Valley. Two of them are students who are born here, considered to be American, but since their parents are both Korean, I have classified them as Korean. Other 4 people are ones who take a critical role in the church, like as pastor, leading singer, engineering, and mechanic, so they tend to increase the average of an age within the experiment. The age mean of these 6 members were 36.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Most of females are from San Ramon church and another fraternity, ADX (Alpha Delta Chi), a Christian female fraternity. Among total of 14 female participants, 6 are from the church while 8 are from ADX. The mean of age from the church was 30 and 22.12 for ADX.
+
+__Procedures__
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Each participant was met face to face and has politely asked if they want to participate in the experiment of whether comprehendible languages and noises have effect when someone tries to sleep. They were told to download a mp3 file that has been randomly assigned, listen to it before going to bed, then fill out a survey after they are awake. Total of three days were required from a subject, one day for listening to media that is in 1st language, another day for 2nd language, and one last day for classic or rock music.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;First, they were told to write down average time spent before going to bed. Then the experiment began with listening to media that is in 1st language. The same process has been done on the next day, but in this case, listening to 2nd language media. On the last day, the group was randomly divided into groups of two, listening to classic or rock music. When they woke up each time, they are asked to record duration before going to sleep. For the last part, participants were told to rate their tiredness and workloads during the experiment was ongoing scaling from 1 to 5.
+
+__Methods__
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The whole experiment was done by self-report measures, since the experimenter could not break into dorms and houses freely, especially in the night. For the 1st language media part, since I knew every one of the participants, I prepared comedy, TV shows, and dramas that is within their own languages. But for the 2nd language part, meida with only three languages were offered, which are Chinese, Arabian, and Italian. Western people are asked to listen to Arabian or Chinese, while Mid-eastern people and Asia are asked to listen to Italian. After they are done with 2nd language experiment, the experimenter divided the participants in a group of two, randomly assigning classic and rock music to see if there is any correlation between songs with lyrics and songs that does not have lyrics but have quite different rhythm and loudness. The self-report measure consisted of some demographic questions: Age, Sex, Nationality, followed up by average time spent before going to sleep, time spent when listened to media that is in1st language, 2nd language, and classic or rock music, and scale of tiredness and workloads, based on their own perspective and supposition.
+
+---
+
+<center>__Results__</center>
+
+__Key Variable__
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;More data was collected in this experiment than would be used. The key variables were average time spent before going to sleep in an ordinary day, time spent when before going to sleep when listened to media that is in 1st and 2nd language. Other approaches are made by adding variables of listening to classic and rock music, depend upon one’s tiredness and amount of workload that may generate stress.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Also, when participants listened to media that is in 1st language before trying to go to sleep, the mean was 25.94 minutes, with a range between 6 minutes to 62 minutes, and a standard deviation of 12.65 minutes. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For people who listened to source that is in 2nd language the result showed mean of 17.62 minutes, with a range between 2 minutes to 45 minutes, and a standard deviation of 9.29 minutes.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Moreover, participants who listened to classic music demonstrated the mean of 11.82 minutes, with a range between 3 minutes to 23 minutes, and a standard deviation of 5.29 minutes, while people who listened to rock music showed a mean of 37.47 minutes, with a range between 27 minutes to 53 minutes, and a standard deviation of 6.83 minutes.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The population’s mean for tiredness was 3.44 with a standard deviation of 0.89, when a mean for workloads were 2.62 with a standard deviation of 10.02. The scale were to rate as follows:
+
+5 = very severe  
+4 = some what severe  
+3 = bearable, it is okay  
+2 = some what mild  
+1 = very mild  
+
+(Table.1)
+
+![](https://ifh.cc/g/9vAdHj.jpg){width=50%}
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A linear model was constructed to test whether the relation ship between the amount of time spent in an ordinary day and listened to media that is in 1 st language have any difference, signifying that there is a significant effect of media when trying to go to sleep.
+The result of that model was found to be very significant and is included in the table and
+graph below:
+
+(Picture.1)
+
+![](https://ifh.cc/g/KEnvRp.jpg){width=80%}
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Another linear model is created to see if th ere is any effect of media that is in 2 nd language before going to sleep. The result of this model was found not very significant.
+
+(Picture.2)
+
+![]https://ifh.cc/g/3aBDii.jpg){width=80%}
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The experimenter made additional linear model, comparing the effects of 1 st and 2 nd language media which showed very strong significance:
+
+(Picture.3)
+
+![](https://ifh.cc/g/GxGlSZ.jpg){width=80%}
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If the who le data were put toge ther, time spent during an ordinary day, listening to 1 st language, and 2 nd language, the result was as follows:
+
+(Picture.4)
+
+![](https://ifh.cc/g/IJUPvY.jpg){width=80%}
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The average time spent of normal sleep was 16.18 minutes, listening to 1 st language media made lot harder to go sleep, taking about 25.94 minutes. On the other hand, 2 nd
+language media had no much effect on normal sleep, which has increased to 17.62, which
+was about 8.32 difference between 1 st language media.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Then another factor was added to measure if there is any correlation between tiredness to time spent and status of their sleep:
+
+(Picture.5)
+
+![](https://ifh.cc/g/dnLdP1.jpg){width=80%}
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The effect of listening to 1 st language media and tiredness on time spent before going to sleep disappears, signifying that tiredness does not improve my first model.
+
+(Picture.6)
+
+![](https://ifh.cc/g/a6tvaw.jpg){width=80%}
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And f or the relationship between time spent before going to bed and tiredness, there was hardly any significance:
+
+(Picture.7)
+
+![](https://ifh.cc/g/WBaySI.jpg){width=80%}
+
+(Graph.1)
+
+![](https://ifh.cc/g/8s0nk7.jpg){width=80%}
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This graph, (Graph.1) signifies the total relationship of these thre e factors, total time sent when participants were sleeping in normal condition, listening to 1 st and 2 nd language media, that is observed within the scale of tiredness. The result shows negative relation.
+Tiredness had no thing to do with the time spent, wh ich means that the noise of media have critical impact on sleep, rather than tiredness.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Now talking about a dependent T Test, I used a t test to determine whether people were going to sleep easily depend upon their sle eping status:
+
+(Picture.8)
+
+![](https://ifh.cc/g/nRRqA6.jpg){width=80%}
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For reliability analysis, the experimenter’s R program had a problem with any other sources of data that, it represents lower than it should be (the picture below is same
+but my R gram is weird… It is a same data, but different alpha v alue. It should be around 60)
+
+(Picture.9)
+
+![](https://ifh.cc/g/QUtsJY.jpg){width=80%}
+
+(Picture.10)
+
+![](https://ifh.cc/g/R1vCdf.jpg){width=80%}
+
+For normality:
+
+(Graph.2)
+
+![](https://ifh.cc/g/74Jxjc.jpg){width=50%}
+
+(Graph.3)
+
+![](https://ifh.cc/g/V4nIUu.jpg){width=50%}
+
+(Graph.4)
+
+![](https://ifh.cc/g/9bc93t.jpg){width=50%}
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The lines in the graphs shows nicely fitted to the data.  
+For multiple regression model:
+
+(Picture.11)
+
+![](https://ifh.cc/g/advi6M.jpg){width=80%}
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This picture signifies that every standard deviation that increases in tiredness, the time spent before going to sleep de creases by 0.07, which is not really significant. On the other every increase in tiredness showed changes in time spent when one listened to 1 st
+language media.
+
+(Picture.12)
+
+![](https://ifh.cc/g/mSRK8t.jpg){width=80%}
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For the analysis of variance table, accounting for tiredness and status of sleeping have different effect on time spent before going to sleep, tiredness not improving while status improves, which is fitting a model.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For power analysis betwe en normal sleeping to 1 st language media:
+
+(Picture.13)
+
+![](https://ifh.cc/g/3HlAlF.jpg){width=80%}
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pnorm(-2--0.607) = 0.08%  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Which means that my theory is rejected.
+
+---
+
+<center>__Discussion__</center>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Although there was a significant effect of media when going to sleep, there was nosignificant e ffect of tiredness on sleep. There was understandable reason that 1 st language had much more impact than the 2 nd language , due to statistical result shown above. Interestingly,
+2 nd language was not very effective compare to 1 st language, which can imply that there is possible correlation of understanding the noise. Since the media are all recorded and sent to participants with sim ilar rhythm and loudness, it is inevitable to state that listening and understanding of media have no effect on person who is trying to sleep.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As done in the earlier researches, my experiment contained lots of interesting factors that could be examined, bu t there were some limitations, like as not able to record the specific time when participants fell a sleep and the certainty that these participants never heard of 2 nd language ever before that this effect might sound as noise. The fact that e arlier researc h said
+that people with sleep disorders might have hard time going to sleep, which m ay be correlated with tiredness is interesting since my research is those past theories. As there was significant influence of media on sleeping, I tried to find if there is any factor that might hinder one from going to sleep, like as tiredness in my experiment.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Since this was my first research done, I know this research is lacking a lot of information with even missing data that may have been taken a critical role in my s tudy. If
+there is any chance I would like to direct if there is any relation ship between language to noise (classic or rock music), loudness and rhythm of a media, and the impact of workloads w hen someone is trying to sleep. Many researches has found that a person can benefit a fast asleep by listening to c alm music such as classic music, and I personally think that noise that cannot be comprehended (not understandable like 2 nd language or music without lyrics) would definitely bring similar consequences a s tranquil music will bring.
+
+---
+
+<center>__References__</center>
+
+http://eds.b.ebscohost.com/eds/pdfviewer/pdfviewer?vid=62&sid=35e4df33adb6-41ad-9851-e43a3a2c4ae3%40sessionmgr198&hid=112  
+-Association between Physical Activity and Sleep in Adults with Chronic Pain
+
+http://eds.b.ebscohost.com/eds/pdfviewer/pdfviewer?vid=9&sid=35e4df33-adb6-41ad-9851-e43a3a2c4ae3%40sessionmgr198&hid=112  
+-Effects of environmental noise on sleep
+
+http://eds.b.ebscohost.com/eds/pdfviewer/pdfviewer?vid=26&sid=35e4df33-adb6-41ad-9851-e43a3a2c4ae3%40sessionmgr198&hid=112  
+-Music listening has no positive or negative effects on sleep quality of normal sleepers
+
+http://www.journalofnursingstudies.com/article/S0020-7489(13)00096-5/abstract  
+-Music therapy improves sleep quality in acute and chronic sleep disorder s
+
+http://eds.b.ebscohost.com/eds/pdfviewer/pdfviewer?vid=82&sid=35e4df33-adb6-41ad-9851-e43a3a2c4ae3%40sessionmgr198&hid=112  
+-Noise related sleep disturbances: Does gender matter?
+
+
+
+
+
