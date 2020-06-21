@@ -2,7 +2,7 @@
 date: "2020-06-17"
 description: How to contact me
 sidemenu: "true"
-title: CONTACT
+title: Contact
 ---
 
 

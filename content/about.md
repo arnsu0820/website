@@ -2,7 +2,7 @@
 date: "2020-06-17"
 description: AARON SU
 sidemenu: "true"
-title: RESUME
+title: Resume
 ---
 
 # EDUCATION
