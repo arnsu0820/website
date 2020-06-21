@@ -9,7 +9,7 @@ title: Resume
 ### Yonsei University Seo Dae-Mun Gu, South Korea
 #### Graduate Student
 ##### __Masters of Arts, Cognitive Engineering Psychology__, _July 2019 ~ Present_
-+ Design and conduct research to extend study potential for human-interaction psychology
++ Design and conduct research to extend study potential for human-computer interaction (HCI) psychology
 
 ### Yonsei University Seo Dae-Mun Gu, South Korea
 #### Graduate Student
